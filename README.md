@@ -1,3 +1,3 @@
 # demo
 This is my first repository
-Author - Sougata Shee
+Author - Sougata (@shee)
